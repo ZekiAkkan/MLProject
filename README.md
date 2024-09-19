@@ -69,3 +69,7 @@ Bu projelerde aşağıdaki Python kütüphaneleri kullanılmıştır:
 - `matplotlib`
 - `seaborn`
 - `sklearn`
+
+##Linkler
+- https://www.kaggle.com/code/zekiakkan/btc-g-zetimsiz1
+- https://www.kaggle.com/code/zekiakkan/btc-gozetimli
