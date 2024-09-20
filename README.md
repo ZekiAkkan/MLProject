@@ -1,4 +1,4 @@
-# Bitcoin Veri Analizi ve Kümelama ile Regresyon Modelleri
+# Bitcoin Veri Analizi ve Kümelame ile Regresyon Modelleri
 
 Bu projede iki farklı yaklaşımla Bitcoin fiyat verileri üzerinde analiz ve modelleme çalışmaları yapılmaktadır:
 
